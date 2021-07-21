@@ -90,3 +90,5 @@ The palette works with [wal] too, not just [pywal] and with every color palette 
 
 [pywal]: https://github.com/dylanaraps/pywal
 [wal]: https://github.com/dylanaraps/wal
+
+.
